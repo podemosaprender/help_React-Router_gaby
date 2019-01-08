@@ -6,13 +6,13 @@ const NavMenu = props => {
             <nav className='navMenu'>
                <ul>
                 <li>
-                    <Link to="/">Inicio</Link>
+                    <Link to={`${process.env.PUBLIC_URL}/`}>Inicio</Link>
                 </li>
             <li>
-            <Link to="/about">About</Link>
+            <Link to={`${process.env.PUBLIC_URL}/about`}>About</Link>
             </li>
             <li>
-            <Link to="/portafolio">Portafolio</Link>
+            <Link to={`${process.env.PUBLIC_URL}/portafolio`}>Portafolio</Link>
             </li>
         </ul>
             </nav>

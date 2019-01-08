@@ -1,3 +1,6 @@
+Intente publicarlo en gitpages como dice
+   <https://medium.com/@svinkle/how-to-deploy-a-react-app-to-a-subdirectory-f694d46427c1>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
